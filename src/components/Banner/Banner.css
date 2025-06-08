@@ -1,0 +1,12 @@
+.banner {
+  background-image: url('../../assets/Oklahoma_City_Thunder.svg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 400px;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
